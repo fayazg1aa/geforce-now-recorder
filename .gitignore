@@ -1,0 +1,10 @@
+.build-venv/
+__pycache__/
+build/
+dist/
+*.py[cod]
+*.exe
+*.log
+startup-report.json
+recording.json
+recording.previous.json
